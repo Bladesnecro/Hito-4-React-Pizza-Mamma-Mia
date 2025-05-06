@@ -28,12 +28,11 @@ http://localhost:5173
  http://localhost:5000/api/pizzas ← lista completa
  http://localhost:5000/api/pizzas/p001 ← una pizza
 
- Ruta raíz del backend (opcional)
- http://localhost:5000/ ← muestra las rutas disponibles
 ---
 
 ## 📬 Contacto
 
 **Maximiliano Foradori** 
+
 Padre orgulloso de una hermosa hija, futuro programador, actual encargado de reclutamiento, selección y desarrollo organizacional en Santa Rita Estates.
 📧 maxforamont@live.cl
